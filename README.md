@@ -4,5 +4,3 @@
 - HTML 5
 - CSS3
 - Terminal/Bash
-- Atom
-- GitHub
